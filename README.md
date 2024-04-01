@@ -42,20 +42,4 @@ This project implements a next word prediction model using LSTM (Long Short-Term
    - Save the trained model (`NWP.h5`) for future use.
    - Use the trained model to predict the next word given a starting text.
 
-## Usage
 
-1. Install required packages:
-   ```bash
-   pip install tensorflow keras numpy
-   ```
-2. Open the provided Jupyter Notebook file (`next_word_prediction.ipynb`) in Google Colab or any Jupyter Notebook environment.
-3. Follow the instructions in the notebook to mount Google Drive, load and preprocess the data, build and train the model, and save the trained model.
-4. Use the trained model for next word prediction by providing a starting text.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Save this content as `README.md` in your project directory for clear instructions on how to use and run the code. Adjust the paths and filenames as necessary to match your project structure.
